@@ -11,7 +11,8 @@
     "url": "https://github.com/leshy/noty-browserify.git"
   },
   "author": "lesh",
-  "license": "ISC",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
   "bugs": {
     "url": "https://github.com/leshy/noty-browserify/issues"
   },
